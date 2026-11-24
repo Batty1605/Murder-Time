@@ -27,4 +27,9 @@
     "secure": true,
     "name": "TriniumHost"
   }
+  {
+  "host": "gateway.lavahost.net",
+  "port": 443,
+  "password": "lh_408cec82",
+  "secure": true
 ]
