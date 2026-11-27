@@ -26,5 +26,12 @@
     "password": "free",
     "secure": true,
     "name": "TriniumHost"
+  },
+  {
+  "host": "gateway.lavahost.net",
+  "port": 443,
+  "password": "lh_fb50e563",
+  "secure": true,
+  "name": "MurderTime"
   }
 ]
